@@ -1,2 +1,2 @@
 const multiply=(x,y)=>(x*y);
-console.log(add(5,7));
+console.log(multiply(5,7))
